@@ -1,4 +1,2 @@
-# AndroidAPSdocs
-Documentation for AndroidAPS
+# Initial page
 
-To view docs visit https://androidaps.readthedocs.io/
